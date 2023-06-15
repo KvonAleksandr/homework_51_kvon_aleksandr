@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #cccccc;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    margin: 25px 25px;
+    width: 415px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 1px solid #333333;
+}
+
+.cat_info {
+    margin-top: 20px;
+}
+
+.cat_action {
+    margin: 25px 25px;
+}
+
+label {
+    font-weight: bolder;
+}
+
+.select_action {
+    margin-top: 10px;
+}
+
+select {
+    width: 165px;
+    height: 30px;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+
+    font-size: 14px;
+    font-weight: bold;
+    color: #333333;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #13bf52;
+    color: white;
+    border-radius: 4px;
+    border: #cccccc;
+}
+
+.btn {
+    margin-top: 10px;
+}
